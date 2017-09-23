@@ -1,0 +1,9 @@
+Building Gamecash
+
+See doc/readme-qt.rst for instructions on building Gamecash-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Gamecash.
+
+See doc/build-*.txt for instructions on building gamecashd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Gamecash.
